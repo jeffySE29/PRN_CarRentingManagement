@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\refint\DataAccessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\DataAccessObjects\obj\Debug\net5.0\ref\DataAccessObjects.dll

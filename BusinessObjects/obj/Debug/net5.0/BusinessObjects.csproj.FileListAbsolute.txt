@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\bin\Debug\net5.0\BusinessObjects.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\bin\Debug\net5.0\BusinessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\BusinessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\ref\BusinessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\BusinessObjects.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\BusinessObjects.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\BusinessObjects\obj\Debug\net5.0\refint\BusinessObjects.dll

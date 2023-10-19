@@ -1,0 +1,17 @@
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\bin\Debug\net5.0\Repositories.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\bin\Debug\net5.0\Repositories.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\bin\Debug\net5.0\Repositories.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\bin\Debug\net5.0\BusinessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\bin\Debug\net5.0\DataAccessObjects.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\bin\Debug\net5.0\DataAccessObjects.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\bin\Debug\net5.0\BusinessObjects.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\Repositories.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\refint\Repositories.dll
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\Repositories.pdb
+C:\Users\ADMIN\OneDrive\Desktop\PRN-As\Ass02Solution_NET1705_LaiNguyenMinhQuan\Repositories\obj\Debug\net5.0\ref\Repositories.dll
